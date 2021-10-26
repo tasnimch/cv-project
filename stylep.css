@@ -1,0 +1,29 @@
+.icons img {
+	width:120px;
+	height:120px;
+    border-radius:50%;
+    
+}
+.icons p{
+	text-align:center;
+    font-family:courier;
+}
+.icons{
+    text-align: center;
+}
+.icons{
+    display:inline-block;
+	border:2px solid black;
+	width:400px;
+	padding:50px;
+	border-radius:15%;
+	background:rgb(81, 144, 238);
+	box-shadow:6px 10px 9px rgb(53, 196, 196);
+	
+}
+.icons1 img{
+	width:20px;
+	height:20px;
+    border-radius:50%;
+    
+}
